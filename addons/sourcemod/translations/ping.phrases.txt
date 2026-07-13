@@ -1,0 +1,148 @@
+"Phrases"
+{
+    "Hammer Units, Long"
+    {
+        "en"    "Hammer Units"
+        "es"    "Unidades Hammer"
+        "chi"   "HU"
+        "zho"   "HU"
+    }
+
+    "Feet, Long"
+    {
+        "en"    "Feet"
+        "es"    "Pies"
+        "chi"   "英尺"
+        "zho"   "英尺"
+    }
+
+    "Meters, Long"
+    {
+        "en"    "Meters"
+        "es"    "Metros"
+        "chi"   "米"
+        "zho"   "公尺"
+    }
+
+    "Hammer Units, Short"
+    {
+        "en"    "hu"
+        "es"    "uh"
+        "chi"   "hu"
+        "zho"   "hu"
+    }
+
+    "Feet, Short"
+    {
+        "en"    "ft"
+        "es"    "pies"
+        "chi"   "英尺"
+        "zho"   "英尺"
+    }
+
+    "Meters, Short"
+    {
+        "en"    "m"
+        "es"    "m"
+        "chi"   "米"
+        "zho"   "公尺"
+    }
+
+    "Caption With Distance"
+    {
+        "#format" "{1:s},{2:.f},{3:T}"
+        "en"    "{1} ({2} {3})"
+        "es"    "{1} ({2} {3})"
+        "chi"   "{1} ({2} {3})"
+        "zho"   "{1} ({2} {3})"
+    }
+
+    "Caption"
+    {
+        "#format"    "{1:s}"
+        "en"         "{1}"
+        "es"         "{1}"
+        "chi"        "{1}"
+        "zho"        "{1}"
+    }
+
+    "Must Be Alive"
+    {
+        "en"    "Only alive players can ping"
+        "es"    "Solo las personas vivas pueden señalar"
+        "chi"   "只有存活的玩家才能使用标记"
+        "zho"   "只有存活的玩家才能使用標記"
+    }
+
+    "Ping Disabled"
+    {
+        "en"    "Player pings are disabled"
+        "es"    "Señalar está desactivado"
+        "chi"   "玩家标记功能已禁用"
+        "zho"   "玩家標記功能已停用"
+    }
+
+    "Too Many Pings"
+    {
+        "en"    "Can't ping: Too many active pings"
+        "es"    "No puedes señalar: Demasiadas señales activas"
+        "chi"   "无法标记：当前活跃标记过多"
+        "zho"   "無法標記：當前活躍標記過多"
+    }
+
+    "On Cooldown"
+    {
+        "#format"   "{1:d}"
+        "en"    "Can't ping: On cooldown for {1} seconds"
+        "es"    "No puedes señalar: En enfriamiento por {1} segundos"
+        "chi"   "无法标记：冷却中，还需 {1} 秒"
+        "zho"   "無法標記：冷卻中，還需 {1} 秒"
+    }
+
+    "Ping Settings Title"
+    {
+        "en"    "Player Pings"
+        "es"    "Señales de Jugadores"
+        "chi"   "玩家标记设置"
+        "zho"   "玩家標記設定"
+    }
+
+    "Setting: Toggle"
+    {
+        "en"    "Player Pings"
+        "es"    "Señales de Jugadores"
+        "chi"   "开启/关闭玩家标记"
+        "zho"   "開啟/關閉玩家標記"
+    }
+
+    "Setting: Units"
+    {
+        "en"    "Distance Units"
+        "es"    "Unidad de distancia"
+        "chi"   "距离单位"
+        "zho"   "距離單位"
+    }
+
+    "Cookie Disabled"
+    {
+        "en"    "Disabled"
+        "es"    "Desactivadas"
+        "chi"   "已禁用"
+        "zho"   "已停用"
+    }
+
+    "Cookie Enabled"
+    {
+        "en"    "Enabled"
+        "es"    "Activadas"
+        "chi"   "已启用"
+        "zho"   "已啟用"
+    }
+
+    "In Game Only"
+    {
+        "en"    "In-game command only"
+        "chi"   "仅限游戏内使用"
+        "zho"   "僅限遊戲內使用"
+    }
+}

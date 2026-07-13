@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"Hammer Units, Long"
+	{
+		"chi"	"HU"
+	}
+	"Feet, Long"
+	{
+		"chi"	"英尺"
+	}
+	"Meters, Long"
+	{
+		"chi"	"米"
+	}
+	"Hammer Units, Short"
+	{
+		"chi"	"hu"
+	}
+	"Feet, Short"
+	{
+		"chi"	"英尺"
+	}
+	"Meters, Short"
+	{
+		"chi"	"米"
+	}
+	"Caption With Distance"
+	{
+		"#format"	"{1:s},{2:.f},{3:T}"
+		"chi"	"{1} ({2} {3})"
+	}
+	"Caption"
+	{
+		"#format"	"{1:s}"
+		"chi"	"{1}"
+	}
+	"Must Be Alive"
+	{
+		"chi"	"只有存活的玩家才能使用标记"
+	}
+	"Ping Disabled"
+	{
+		"chi"	"玩家标记功能已禁用"
+	}
+	"Too Many Pings"
+	{
+		"chi"	"无法标记：当前活跃标记过多"
+	}
+	"On Cooldown"
+	{
+		"#format"	"{1:d}"
+		"chi"	"无法标记：冷却中，还需 {1} 秒"
+	}
+	"Ping Settings Title"
+	{
+		"chi"	"玩家标记设置"
+	}
+	"Setting: Toggle"
+	{
+		"chi"	"开启/关闭玩家标记"
+	}
+	"Setting: Units"
+	{
+		"chi"	"距离单位"
+	}
+	"Cookie Disabled"
+	{
+		"chi"	"已禁用"
+	}
+	"Cookie Enabled"
+	{
+		"chi"	"已启用"
+	}
+	"In Game Only"
+	{
+		"chi"	"仅限游戏内使用"
+	}
+}

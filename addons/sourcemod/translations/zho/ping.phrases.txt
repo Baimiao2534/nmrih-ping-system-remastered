@@ -1,0 +1,78 @@
+"Phrases"
+{
+	"Hammer Units, Long"
+	{
+		"zho"	"HU"
+	}
+	"Feet, Long"
+	{
+		"zho"	"英尺"
+	}
+	"Meters, Long"
+	{
+		"zho"	"公尺"
+	}
+	"Hammer Units, Short"
+	{
+		"zho"	"hu"
+	}
+	"Feet, Short"
+	{
+		"zho"	"英尺"
+	}
+	"Meters, Short"
+	{
+		"zho"	"公尺"
+	}
+	"Caption With Distance"
+	{
+		"#format"	"{1:s},{2:.f},{3:T}"
+		"zho"	"{1} ({2} {3})"
+	}
+	"Caption"
+	{
+		"#format"	"{1:s}"
+		"zho"	"{1}"
+	}
+	"Must Be Alive"
+	{
+		"zho"	"只有存活的玩家才能使用標記"
+	}
+	"Ping Disabled"
+	{
+		"zho"	"玩家標記功能已停用"
+	}
+	"Too Many Pings"
+	{
+		"zho"	"無法標記：當前活躍標記過多"
+	}
+	"On Cooldown"
+	{
+		"#format"	"{1:d}"
+		"zho"	"無法標記：冷卻中，還需 {1} 秒"
+	}
+	"Ping Settings Title"
+	{
+		"zho"	"玩家標記設定"
+	}
+	"Setting: Toggle"
+	{
+		"zho"	"開啟/關閉玩家標記"
+	}
+	"Setting: Units"
+	{
+		"zho"	"距離單位"
+	}
+	"Cookie Disabled"
+	{
+		"zho"	"已停用"
+	}
+	"Cookie Enabled"
+	{
+		"zho"	"已啟用"
+	}
+	"In Game Only"
+	{
+		"zho"	"僅限遊戲內使用"
+	}
+}
