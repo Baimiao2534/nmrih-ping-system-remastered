@@ -9,7 +9,7 @@
 
 This plugin allows players to point at the world and create a visual and audible ping that can be seen and heard by other players. The ping can be used to communicate locations, objectives, enemies, items, or anything else in the game world.
 
-This remastered version is maintained by **Baimiao2534** and continues to receive updates and Chinese localization improvements.
+This remastered version is maintained by **Baimiao2534** and contributes to multilingual support.
 
 ## Credits
 
